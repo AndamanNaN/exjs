@@ -1,0 +1,9 @@
+﻿Quel est la valeur retournée de [] + {} ?
+
+Réponses :
+[Object Object]
+NaN
+[{}]
+{[]}
+
+
