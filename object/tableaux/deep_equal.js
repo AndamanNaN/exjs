@@ -1,7 +1,5 @@
 function deepEqual(a1, a2){
-  if (a1 && a2) {
-    
-  } 
+
 }
 
 const a1 = [1, 2, [3, 4], 5];
